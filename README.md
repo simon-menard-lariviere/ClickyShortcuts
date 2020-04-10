@@ -1,5 +1,6 @@
 # ClickyShortcuts
 Simple way to create keyboard shortcuts that click on the screen.
+See it in use : https://youtu.be/1uOKNS07ix8
 
 ## Requirements
 AutoHotkey : https://www.autohotkey.com/
