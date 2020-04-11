@@ -8,6 +8,7 @@ AutoHotkey : https://www.autohotkey.com/
 ## Instructions
 You will need to run ClickyShortcuts.ahk.
 See https://www.autohotkey.com/docs/Program.htm for more details.
+
 But first, there is a line you need to edit in ClickyShortcuts.ahk. Adapt the following line to your game .exe :
 
 *#IfWinActive ahk_exe KingdomsAndCastles.exe*
